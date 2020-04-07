@@ -1,0 +1,8 @@
+D:\projects\superdigital\API\src\Transfer.Common\bin\Debug\netstandard2.0\Transfer.Common.deps.json
+D:\projects\superdigital\API\src\Transfer.Common\bin\Debug\netstandard2.0\Transfer.Common.dll
+D:\projects\superdigital\API\src\Transfer.Common\bin\Debug\netstandard2.0\Transfer.Common.pdb
+D:\projects\superdigital\API\src\Transfer.Common\obj\Debug\netstandard2.0\Transfer.Common.AssemblyInfoInputs.cache
+D:\projects\superdigital\API\src\Transfer.Common\obj\Debug\netstandard2.0\Transfer.Common.AssemblyInfo.cs
+D:\projects\superdigital\API\src\Transfer.Common\obj\Debug\netstandard2.0\Transfer.Common.dll
+D:\projects\superdigital\API\src\Transfer.Common\obj\Debug\netstandard2.0\Transfer.Common.pdb
+D:\projects\superdigital\API\src\Transfer.Common\obj\Debug\netstandard2.0\Transfer.Common.csprojAssemblyReference.cache

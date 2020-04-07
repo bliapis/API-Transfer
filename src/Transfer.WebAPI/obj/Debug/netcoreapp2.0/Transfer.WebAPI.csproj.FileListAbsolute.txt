@@ -1,0 +1,16 @@
+D:\projects\superdigital\API\src\Transfer.WebAPI\bin\Debug\netcoreapp2.0\Transfer.WebAPI.deps.json
+D:\projects\superdigital\API\src\Transfer.WebAPI\bin\Debug\netcoreapp2.0\Transfer.WebAPI.runtimeconfig.json
+D:\projects\superdigital\API\src\Transfer.WebAPI\bin\Debug\netcoreapp2.0\Transfer.WebAPI.runtimeconfig.dev.json
+D:\projects\superdigital\API\src\Transfer.WebAPI\bin\Debug\netcoreapp2.0\Transfer.WebAPI.dll
+D:\projects\superdigital\API\src\Transfer.WebAPI\bin\Debug\netcoreapp2.0\Transfer.WebAPI.pdb
+D:\projects\superdigital\API\src\Transfer.WebAPI\obj\Debug\netcoreapp2.0\Transfer.WebAPI.csprojAssemblyReference.cache
+D:\projects\superdigital\API\src\Transfer.WebAPI\obj\Debug\netcoreapp2.0\Transfer.WebAPI.AssemblyInfoInputs.cache
+D:\projects\superdigital\API\src\Transfer.WebAPI\obj\Debug\netcoreapp2.0\Transfer.WebAPI.AssemblyInfo.cs
+D:\projects\superdigital\API\src\Transfer.WebAPI\obj\Debug\netcoreapp2.0\Transfer.WebAPI.dll
+D:\projects\superdigital\API\src\Transfer.WebAPI\obj\Debug\netcoreapp2.0\Transfer.WebAPI.pdb
+D:\projects\superdigital\API\src\Transfer.WebAPI\bin\Debug\netcoreapp2.0\Transfer.Common.dll
+D:\projects\superdigital\API\src\Transfer.WebAPI\bin\Debug\netcoreapp2.0\Transfer.Common.pdb
+D:\projects\superdigital\API\src\Transfer.WebAPI\obj\Debug\netcoreapp2.0\Transfer.WebAPI.csproj.CopyComplete
+D:\projects\superdigital\API\src\Transfer.WebAPI\bin\Debug\netcoreapp2.0\appsettings.Development.json
+D:\projects\superdigital\API\src\Transfer.WebAPI\bin\Debug\netcoreapp2.0\appsettings.json
+D:\projects\superdigital\API\src\Transfer.WebAPI\bin\Debug\netcoreapp2.0\Properties\launchSettings.json
