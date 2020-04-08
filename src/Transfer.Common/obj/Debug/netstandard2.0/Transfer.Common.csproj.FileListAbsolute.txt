@@ -6,3 +6,12 @@ D:\projects\superdigital\API\src\Transfer.Common\obj\Debug\netstandard2.0\Transf
 D:\projects\superdigital\API\src\Transfer.Common\obj\Debug\netstandard2.0\Transfer.Common.dll
 D:\projects\superdigital\API\src\Transfer.Common\obj\Debug\netstandard2.0\Transfer.Common.pdb
 D:\projects\superdigital\API\src\Transfer.Common\obj\Debug\netstandard2.0\Transfer.Common.csprojAssemblyReference.cache
+D:\Projects\superdigital\API-Transfer\src\Transfer.Common\bin\Debug\netstandard2.0\Transfer.Common.deps.json
+D:\Projects\superdigital\API-Transfer\src\Transfer.Common\bin\Debug\netstandard2.0\Transfer.Common.dll
+D:\Projects\superdigital\API-Transfer\src\Transfer.Common\bin\Debug\netstandard2.0\Transfer.Common.pdb
+D:\Projects\superdigital\API-Transfer\src\Transfer.Common\obj\Debug\netstandard2.0\Transfer.Common.csproj.CoreCompileInputs.cache
+D:\Projects\superdigital\API-Transfer\src\Transfer.Common\obj\Debug\netstandard2.0\Transfer.Common.AssemblyInfoInputs.cache
+D:\Projects\superdigital\API-Transfer\src\Transfer.Common\obj\Debug\netstandard2.0\Transfer.Common.AssemblyInfo.cs
+D:\Projects\superdigital\API-Transfer\src\Transfer.Common\obj\Debug\netstandard2.0\Transfer.Common.dll
+D:\Projects\superdigital\API-Transfer\src\Transfer.Common\obj\Debug\netstandard2.0\Transfer.Common.pdb
+D:\Projects\superdigital\API-Transfer\src\Transfer.Common\obj\Debug\netstandard2.0\Transfer.Common.csprojAssemblyReference.cache

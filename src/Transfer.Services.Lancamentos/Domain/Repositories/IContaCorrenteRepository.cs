@@ -6,5 +6,6 @@ namespace Transfer.Services.Lancamentos.Domain.Repositories
     public interface IContaCorrenteRepository
     {
         Task<ContaCorrente> GetAsync(int numero);
+        Task AddAsync(ContaCorrente acc);
     }
 }
