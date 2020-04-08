@@ -19,14 +19,17 @@ gostaria de separar projetos como Domain, Infra, CrossCutting para realizar dive
       --- Transfer.WebAPI
       --- Transfer.Services.Lancamentos
 
-### Serviços inicializados
+#### Serviços inicializados
+![alt text](https://ibb.co/DL69tfV)
 
-### Chamada para adicionar lançamento
+#### Chamada para adicionar lançamento
+![alt text](http://url/to/img.png)
 
-### Resultado no Mongo
+#### Resultado no Mongo
+![alt text](http://url/to/img.png)
 
-### Exemplo de chamada passando uma conta inexistente
-
+#### Exemplo de chamada passando uma conta inexistente
+![alt text](http://url/to/img.png)
 
 # Perguntas
 1) EXPLIQUE COM SUAS PALAVRAS O QUE É DOMAIN DRIVEN DESIGN E SUA IMPORTÂNCIA
