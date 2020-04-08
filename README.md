@@ -14,8 +14,8 @@ gostaria de separar projetos como Domain, Infra, CrossCutting para realizar dive
  - Subir:
  
    -- Docker
-      --- RabbitMQ
-      --- MongoDb
+      --- RabbitMQ (porta: 5672)
+      --- MongoDb (porta: 27017)
       
    -- Aplicação
       --- Transfer.WebAPI
