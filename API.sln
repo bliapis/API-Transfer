@@ -13,7 +13,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Transfer.Services.Lancament
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Transfer.WebAPI.Tests", "tests\Transfer.WebAPI.Tests\Transfer.WebAPI.Tests.csproj", "{5DE70CD0-2618-4F9D-AC3C-DED1E9704324}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Transfer.Services.Lancamentos.Tests", "Transfer.Services.Lancamentos.Tests\Transfer.Services.Lancamentos.Tests.csproj", "{833A917C-C729-4540-8A9D-F33257B865B7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Transfer.Services.Lancamentos.Tests", "tests\Transfer.Services.Lancamentos.Tests\Transfer.Services.Lancamentos.Tests.csproj", "{833A917C-C729-4540-8A9D-F33257B865B7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

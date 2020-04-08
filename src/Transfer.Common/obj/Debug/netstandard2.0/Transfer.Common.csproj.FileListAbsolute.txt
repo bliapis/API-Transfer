@@ -14,4 +14,3 @@ D:\Projects\superdigital\API-Transfer\src\Transfer.Common\obj\Debug\netstandard2
 D:\Projects\superdigital\API-Transfer\src\Transfer.Common\obj\Debug\netstandard2.0\Transfer.Common.AssemblyInfo.cs
 D:\Projects\superdigital\API-Transfer\src\Transfer.Common\obj\Debug\netstandard2.0\Transfer.Common.dll
 D:\Projects\superdigital\API-Transfer\src\Transfer.Common\obj\Debug\netstandard2.0\Transfer.Common.pdb
-D:\Projects\superdigital\API-Transfer\src\Transfer.Common\obj\Debug\netstandard2.0\Transfer.Common.csprojAssemblyReference.cache
