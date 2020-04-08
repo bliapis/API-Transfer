@@ -20,7 +20,7 @@ gostaria de separar projetos como Domain, Infra, CrossCutting para realizar dive
       --- Transfer.Services.Lancamentos
 
 #### Serviços inicializados
-![alt text](https://ibb.co/DL69tfV)
+![alt text](https://i.ibb.co/stDK29m/inicializado.png)
 
 #### Chamada para adicionar lançamento
 ![alt text](http://url/to/img.png)
