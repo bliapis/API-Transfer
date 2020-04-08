@@ -5,16 +5,18 @@ contas bancárias.
 Principais tecnologias utilizadas: .Net Core, Docker, RabbitMQ e MongoDB.
 
 Muitos conceitos foram simplificados nessa API devido ao tempo para desenvolvimento, principalmente a separação de camadas onde
-gostaria de separar projetos como Domain, Infra, CrossCutting para realizar diversas atividades como IoC, entre outros.
+gostaria de separar projetos como Domain, Infra, CrossCutting para realizar diversas atividades como IoC, Log, entre outros.
 
 ## Como Executar
  - Clonar o repositório
  - Baixar as bibliotecas
  - Instalar o docker
  - Subir:
+ 
    -- Docker
       --- RabbitMQ
       --- MongoDb
+      
    -- Aplicação
       --- Transfer.WebAPI
       --- Transfer.Services.Lancamentos
@@ -23,13 +25,13 @@ gostaria de separar projetos como Domain, Infra, CrossCutting para realizar dive
 ![alt text](https://i.ibb.co/stDK29m/inicializado.png)
 
 #### Chamada para adicionar lançamento
-![alt text](http://url/to/img.png)
+![alt text](https://i.ibb.co/25CcjGQ/chamada.png)
 
 #### Resultado no Mongo
-![alt text](http://url/to/img.png)
+![alt text](https://i.ibb.co/hm5pttf/result.png)
 
 #### Exemplo de chamada passando uma conta inexistente
-![alt text](http://url/to/img.png)
+![alt text](https://i.ibb.co/C6YYGGF/erro-conta-destino-nao-encontrada.png)
 
 # Perguntas
 1) EXPLIQUE COM SUAS PALAVRAS O QUE É DOMAIN DRIVEN DESIGN E SUA IMPORTÂNCIA
